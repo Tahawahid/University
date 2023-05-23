@@ -1,5 +1,6 @@
 #include <iostream>
-using namespace std;
+using std::cin;
+using std::cout;
 
 int main()
 {
@@ -15,4 +16,5 @@ int main()
     cout << "PKR to USD is: " << pkrDollor << "\n";
     cout << "PKR to AED is: " << pkrDirham << "\n";
     cout << "PKR to SAR is: " << pkrRiyal << "\n";
+    return 0;
 }

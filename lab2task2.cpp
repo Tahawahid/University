@@ -23,4 +23,5 @@ int main()
     cout << "Area of Rectanle is: " << areaRec << "\n";
     areaSqr = sqrLength * sqrLength;
     cout << "Area of sqaure is: " << areaSqr << "\n";
+    return 0;
 }
